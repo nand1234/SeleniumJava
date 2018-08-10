@@ -1,0 +1,24 @@
+{
+  "execution"             : {
+    "type"    : "local"
+  },
+  "local"             : {
+    "browser_name"    : "chrome"
+  },
+  "selenium_grid"             : {
+    "grid_url"    : "http://192.168.1.3:4444/grid/console",
+    "browser_name" : "chrome"
+  },
+  "Outh_cred"             : {
+    "Tenant"    : "",
+    "ClientId" : "",
+    "AppKey" : "",
+    "ResourceId"    : "",
+    "AADInstance" : "",
+    "BaseAddress" : ""
+  },
+  "Automation"             : {
+    "test_data_url"    : "",
+    "test_env"         : "https://automation01.vievusolutiontest.com/"
+  }
+}
